@@ -6,3 +6,4 @@ You just need to download the folder
 - Run the server, passing a port # as an argument
   * Ex: java server 12345
 - Run the Client, passing the same port# and a unique ID number as arguments
+-   * Ex: java client 12345 001
