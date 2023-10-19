@@ -2,7 +2,8 @@
 Running the application is straightforward.
 - Download the folder
 - Open (at least) 2 terminals open, each navigated to the folder's directory
-- Compile the java files if necessary
+- Compile the java files in at least one of the terminals
+  * Ex: javac *.java
 - Run the server, passing a port # as an argument
   * Ex: java server 12345
   * ![image](https://github.com/JS-Nate/Message-Calculator/assets/94251955/b583ae55-19bf-4a27-acf0-445d9a287e29)
